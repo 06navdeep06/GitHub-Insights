@@ -6,7 +6,7 @@
 A command-line tool to fetch and analyze GitHub repository statistics for any user or organization.
 
 
-## 🚀 Installation
+##  Installation
 
 1. **Clone the repository**:
    ```bash
@@ -33,7 +33,7 @@ A command-line tool to fetch and analyze GitHub repository statistics for any us
      ```
    - Replace `your_token_here` with the token you copied
 
-## 🎯 Usage
+##  Usage
 
 ### Basic Usage
 
@@ -72,13 +72,13 @@ Enter a repository number to view insights
 
 Your choice: 1
 
-📊 Fetching insights for octocat/Hello-World...
+ Fetching insights for octocat/Hello-World...
 
-============================================================
-📊 Repository: octocat/Hello-World
-============================================================
-🔢 Open Issues: 42 ⚠️ (More than 20 open issues!)
-🔁 Open Pull Requests: 5
+===========================================================
+ Repository: octocat/Hello-World
+===========================================================
+ Open Issues: 42 ⚠️ (More than 20 open issues!)
+ Open Pull Requests: 5
 
 👥 Top Contributors:
   1. octocat - 1,234 commits
@@ -126,13 +126,13 @@ Enter a repository number to view insights
 
 Your choice: 1
 
-📊 Fetching insights for octocat/Hello-World...
+ Fetching insights for octocat/Hello-World...
 
 ============================================================
-📊 Repository: octocat/Hello-World
+ Repository: octocat/Hello-World
 ============================================================
-🔢 Open Issues: 42 ⚠️  (More than 20 open issues!)
-🔁 Open Pull Requests: 5
+ Open Issues: 42 ⚠️  (More than 20 open issues!)
+ Open Pull Requests: 5
 
 👥 Top Contributors:
   1. octocat - 1,234 commits
@@ -143,9 +143,6 @@ Your choice: 1
 Press Enter to continue...
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -163,7 +160,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
    ```bash
    pytest
    ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
