@@ -1,7 +1,6 @@
 # GitHub Insights
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+
 
 A command-line tool to fetch and analyze GitHub repository statistics for any user or organization.
 
