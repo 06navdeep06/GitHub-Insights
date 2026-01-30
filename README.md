@@ -5,18 +5,6 @@
 
 A command-line tool to fetch and analyze GitHub repository statistics for any user or organization.
 
-## ✨ Features
-
-- 🔍 List all public repositories for any GitHub user or organization
-- 📊 View detailed repository insights:
-  - 🔢 Number of open issues (with warning for >20 issues)
-  - 🔄 Number of open pull requests
-  - 👥 Top 3 contributors by commit count
-  - ⭐ Number of stars and forks
-- 🖥️ Clean, interactive command-line interface
-- 🚦 Colorful output with emojis for better readability
-- 🔄 Easy navigation between repositories
-- ⚡ Fast and efficient API usage
 
 ## 🚀 Installation
 
